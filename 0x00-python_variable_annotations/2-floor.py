@@ -5,3 +5,4 @@
 def floor(n: float) -> int:
     """This function returns the floor of a float"""
     return int(n)
+# End of file with a newline character

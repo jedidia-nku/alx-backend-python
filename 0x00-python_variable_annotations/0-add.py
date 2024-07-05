@@ -6,3 +6,4 @@ def add(a: float, b: float) -> float:
     '''It add two floats together
     '''
     return a + b
+# End of file with a newline character
