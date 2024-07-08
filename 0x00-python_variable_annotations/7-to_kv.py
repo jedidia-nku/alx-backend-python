@@ -7,3 +7,4 @@ from typing import Union, Tuple
 def to_kv(k: str, v: Union[int, float]) -> Tuple[str, float]:
     """It sums string, int and float together"""
     return (k, float(v**2))
+# End of file with a newline character

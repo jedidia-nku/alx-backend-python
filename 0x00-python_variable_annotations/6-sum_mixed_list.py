@@ -9,3 +9,4 @@ def sum_mixed_list(mxd_list: List[Union[int, float]]) -> float:
     and return their sum as float
     """
     return float(sum(mxd_list))
+# End of file with a newline character

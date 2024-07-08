@@ -7,3 +7,4 @@ def to_str(n: float) -> str:
     string representation
     """
     return str(n)
+# End of file with a newline character

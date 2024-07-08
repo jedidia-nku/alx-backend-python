@@ -9,3 +9,4 @@ def sum_list(input_list: List[float]) -> float:
     argument and returns their sum as a float
     """
     return float(sum(input_list))
+# End of file with a newline character
