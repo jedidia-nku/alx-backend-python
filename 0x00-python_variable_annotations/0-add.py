@@ -2,7 +2,7 @@
 '''This a module for basic annotations'''
 
 
-def add(a: float, b: float) -> float:
+def add(a: float, b: float) -> float: # type: ignore
     '''It add two floats together
     '''
     return a + b
